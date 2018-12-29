@@ -1,0 +1,3 @@
+[submodule "APTSimulator"]
+	path = APTSimulator
+	url = ./resources/APTSimulator
